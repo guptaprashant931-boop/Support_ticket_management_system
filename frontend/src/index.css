@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: grey;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+input, select, textarea, button {
+  padding: 8px;
+  margin: 5px 5px 5px 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+.ticket-card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.stats-box {
+  background: white;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 6px;
+}
